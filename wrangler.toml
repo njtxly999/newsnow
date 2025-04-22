@@ -4,5 +4,5 @@ compatibility_date = "2024-10-03"
 
 [[d1_databases]]
 binding = "NEWSNOW_DB"
-database_name = "卐启明长庚卍-db"
+database_name = "启明长庚-db"
 database_id = "Ov23limFSVWXrMXhocfu"
